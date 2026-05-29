@@ -1,0 +1,22 @@
+.table-col-no,
+.table-col-id {
+    width: 70px;
+}
+
+.table-col-photo {
+    width: 150px;
+}
+
+.table-col-action {
+    width: 280px;
+}
+
+.report-thumb {
+    width: 120px;
+    height: 90px;
+    object-fit: cover;
+}
+
+.auth-card {
+    max-width: 420px;
+}
