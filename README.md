@@ -1,4 +1,3 @@
-# web-pju
 
 # Sistem Pelaporan Lampu Jalan Mati
 
